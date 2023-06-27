@@ -1,0 +1,10 @@
+[submodule "mbed-os"]
+	path = mbed-os
+	url = https://github.com/mbed-ce/mbed-os.git
+	shallow = true
+[submodule "RemoteIR"]
+	path = RemoteIR
+	url = https://github.com/mbed-ce/RemoteIR
+[submodule "TextLCD"]
+	path = TextLCD
+	url = https://github.com/PelionIoT/TextLCD.git
