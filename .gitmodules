@@ -4,7 +4,7 @@
 	shallow = true
 [submodule "RemoteIR"]
 	path = RemoteIR
-	url = https://github.com/mbed-ce/RemoteIR
+	url = https://github.com/mbed-ce-libraries-examples/RemoteIR.git
 [submodule "TextLCD"]
 	path = TextLCD
-	url = https://github.com/PelionIoT/TextLCD.git
+	url = https://github.com/mbed-ce-libraries-examples/TextLCD.git
